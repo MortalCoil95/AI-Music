@@ -1,4 +1,4 @@
-# AI-Music-
+# AI-Music
 Genetic Algorithm
 
 1) Install the modules mentioned in 'requirements.txt' using 'pip'.
